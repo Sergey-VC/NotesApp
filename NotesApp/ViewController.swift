@@ -10,6 +10,7 @@ import UIKit
 class ViewController: UIViewController {
     
     var text = ""
+    var array = [""]
 
     override func viewDidLoad() {
         super.viewDidLoad()
