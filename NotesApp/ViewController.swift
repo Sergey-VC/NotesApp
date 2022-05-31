@@ -11,6 +11,7 @@ class ViewController: UIViewController {
     
     var text = ""
     var array = [""]
+    var item = "Hello world"
 
     override func viewDidLoad() {
         super.viewDidLoad()
